@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.futani {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+.half-width img {
+    width: 90%;
+}
+
+.Link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 100px, 40px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    back
+}
